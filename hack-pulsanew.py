@@ -1,0 +1,161 @@
+#!/bin/sh
+#tools ini bukan Untuk Di salah gunakan Reti ra cok
+#Jowo lewat slur
+#mau apa?NgenTod/Kawen
+
+
+blue='\033[34;1m'
+green='\033[32;1m'
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+
+           
+
+
+echo " "
+echo "\033[31;1m=========================================================================="
+echo "\033[31;1m+                          HACK PULSA                                                     +"
+sleep 1
+echo "\033[31;1m+                  ^__^Coded By : Cheater desa022                             +"
+sleep 1
+echo "\033[31;1m+                  <*_*>Team : Jancok Hack Team                              +"
+sleep 1
+echo "\033[31;1m+                  Contact Me : 087824490002                                    +"
+sleep 1
+echo "\033[31;1m=========================================================================="
+sleep 3
+
+echo " "
+echo "\033[33;1m"
+echo "[1] Telkomsel"
+sleep 1
+echo "[2] Axis/XL"
+sleep 1
+echo "[3] Tri"
+sleep 1
+echo "[4] Indosat"
+sleep 1
+echo "[5] Smartfen"
+sleep 1
+echo "[6] Nyolong Pulsa Orang"
+sleep 1
+echo "[99] Exit"
+read -p "Pilih Nomor Nya Tod : " ins;
+
+echo " "
+if [ $ins = 1 ] || [ $ins = 01 ]
+then
+clear
+echo "\033[34;1mMasukkan Nomor Anda : "
+read anda
+sleep 2
+echo "\033[34;1mJumlah Pulsa : "
+read pulsa
+sleep 3
+echo " "
+echo "Tunggu ya Ntod....."
+sleep 10
+echo "$Berhasil Di transfer Mohon tunggu 1 - 24 jam kalo tidak berfungsi Ulangi Tools nya cok$pulsa"
+sleep 1
+fi
+
+echo " "
+if [ $ins = 2 ] || [ $ins = 02 ]
+then
+clear
+echo "\033[34;1mMasukkan Nomor Anda : "
+read anda
+sleep 2
+echo "\033[34;1mJumlah Pulsa : "
+read pulsa
+sleep 3
+echo " "
+echo "Tunggu ya Ngento*...."
+sleep 10
+echo "$Berhasil Di transfer Mohon tunggu 1 - 24 jam kalo tidak berfungsi Ulangi Tools nya cok$pulsa"
+sleep 1
+fi
+
+echo " "
+if [ $ins = 3 ] || [ $ins = 03 ]
+then
+clear
+echo "\033[34;1mMasukkan Nomor Anda : "
+read anda
+sleep 2
+echo "\033[34;1mJumlah Pulsa : "
+read pulsa
+sleep 3
+echo " "
+echo "Tunggu ya Ntod....."
+sleep 10
+echo "$Berhasil Di transfer Mohon tunggu 1 - 24 jam kalo tidak berfungsi Ulangi Tools nya cok$pulsa"
+sleep 1
+fi
+
+echo " "
+if [ $ins = 4 ] || [ $ins = 04 ]
+then
+clear
+echo "\033[34;1mMasukkan Nomor Anda : "
+read anda
+sleep 2
+echo "\033[34;1mJumlah Pulsa : "
+read pulsa
+sleep 3
+echo " "
+echo "Tunggu ya Cok....."
+sleep 10
+echo "$Berhasil Di transfer Mohon tunggu 1 - 24 jam kalo tidak berfungsi Ulangi Tools nya cok$pulsa"
+sleep 1
+fi
+
+echo " "
+if [ $ins = 5 ] || [ $ins = 05 ]
+then
+clear
+echo "\033[34;1mMasukkan Nomor Anda : "
+read anda
+sleep 2
+echo "\033[34;1mJumlah Pulsa : "
+read pulsa
+sleep 3
+echo " "
+echo "Tunggu ya Cok....."
+sleep 10
+echo "$Berhasil Di transfer Mohon tunggu 1 - 24 jam kalo tidak berfungsi Ulangi Tools nya cok$pulsa"
+sleep 1
+fi
+
+echo " "
+if [ $ins = 6 ] || [ $ins = 06 ]
+then
+clear
+echo "\033[34;1mMasukkan Nomor Anda : "
+read anda
+sleep 2
+echo "\033[34;1mMasukkan Nomor Korban"
+read korban
+sleep 3
+echo "\033[34;1mJumlah Pulsa : "
+read pulsa
+sleep 3
+echo " "
+echo "Tunggu ya Cok....."
+sleep 10
+echo "$korban Nomor Ini berhasil di colong pulsanya $pulsa"
+sleep 1
+fi
+
+echo " "
+if [ $ins = 99 ] || [ $ins = 99 ]
+then
+clear
+echo "\033[34;1mSee You Next Time Su banjing4N:)"
+sleep 1
+echo "\033[34;1mTerima Kasih Sudah Pakai Tools Saya"
+sleep 1
+fi
